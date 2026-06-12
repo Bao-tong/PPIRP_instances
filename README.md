@@ -1,2 +1,17 @@
 # PPIRP_instances
-Instances used in the paper submitted to the TRE in 2026
+This repository provides the benchmark instances, case-study data, and solution records used in the manuscript:
+**A reinforcement learning-based hyperheuristic for the risk-averse stochastic perishable production-inventory-routing problem**
+The repository is intended to support reproducibility and transparency by providing the data files used in the computational experiments and the case study.
+
+## Repository structure
+PPIRP_instances/
+│
+├── Case_study/
+│   ├── Case_distance.xlsx
+│   ├── Case_study.xlsx
+│   └── RL-HHA_solutions_case_study.txt
+│
+├── Instances/
+│   └── Benchmark instance files used in the computational experiments
+│
+└── README.md
