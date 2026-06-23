@@ -2,7 +2,7 @@
 
 This repository provides the benchmark instances, case-study data, parameter settings, and solution records used in the manuscript:
 
-Title: **A reinforcement learning-based hyperheuristic for the risk-averse stochastic perishable production-inventory-routing problem**
+Title: **A risk-averse stochastic perishable production-inventory-routing problem under production capacity uncertainty**
 
 ## Repository structure
 
